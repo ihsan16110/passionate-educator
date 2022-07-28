@@ -83,8 +83,8 @@ nav .container .register {
     background-color: #289BDE;
 }
 
+/* Section3 ended */
 
-/* section3 ended */
 
 /* section-4  */
 .section4 .container {
@@ -134,3 +134,82 @@ nav .container .register {
 }
 
 /* Section-6 ended  */
+
+
+
+/* Section-7  */
+.section7 .container .accordion-button {
+    color: #1E1E1E !important;
+}
+
+.section7 .container .accordion-item #collapseOne {
+    border: none !important;
+}
+
+.section7 .accordion-button:focus {
+    outline: 0;
+    box-shadow: none !important;
+}
+
+/* Section-7  ended*/
+
+
+
+/* Section-8  */
+.section8 .container .cmp-img img {
+    padding: 5px 25px 5px 25px;
+}
+
+/* Section-8 ended  */
+
+
+
+
+/* Footer  */
+
+
+footer {
+    background-color: #161616;
+    padding: 50px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.title h3,
+.owner-details p {
+    text-align: center;
+    color: white;
+}
+
+
+
+.social i {
+    background: rgba(218, 208, 208, 0.1);
+    width: 32px;
+    height: 32px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 50%;
+}
+
+.social ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.social ul li {
+    list-style: none;
+}
+
+.social ul li a {
+    text-decoration: none;
+    padding: 5px;
+    color: white;
+
+}
+
+
+/* Footer End  */

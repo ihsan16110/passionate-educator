@@ -48,6 +48,10 @@ nav .container .register {
 
 }
 
+.section1 .container .carousel-caption a {
+    background-color: #289BDE;
+}
+
 /* slider  started  section-1  ended*/
 
 
@@ -65,6 +69,68 @@ nav .container .register {
 
 
 /* Section3  */
+.section3 .container .card .row .col-md-8 .card-body h5 {
+    font-size: 45px;
+}
+
+
+.section3 .container .card .row .col-md-8 .card-body .read-more a:hover {
+    background-color: #289BDE;
+    color: #ffffff;
+}
+
+.button {
+    background-color: #289BDE;
+}
 
 
 /* section3 ended */
+
+/* section-4  */
+.section4 .container {
+    background-color: #289BDE;
+}
+
+.section4 .modal .modal-header {
+    background-color: #289BDE;
+}
+
+.section4 .modal .modal-body .register {
+    border: 1px solid #289BDE;
+    color: #289BDE;
+}
+
+/* section-4 ended  */
+
+
+/* Section-5  */
+
+.section5 .container .student-elements h5 {
+    font-size: 45px;
+}
+
+.section5 .container .read-more a:hover {
+    background-color: #289BDE;
+    color: #ffffff;
+}
+
+/* Section-5 ended */
+
+
+
+/* Section-6  */
+.section6 .container .feedback .carousel-control-prev {
+    margin-left: -20px;
+}
+
+.section6 .container .feedback .carousel-control-next {
+    margin-right: -20px;
+
+}
+
+.section6 .container .feedback .carousel-control-next .carousel-control-next-icon,
+.section6 .container .feedback .carousel-control-prev .carousel-control-prev-icon {
+    background-color: #289BDE;
+}
+
+/* Section-6 ended  */
